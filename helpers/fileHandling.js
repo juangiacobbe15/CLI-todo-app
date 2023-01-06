@@ -21,5 +21,4 @@ const readDB = () => {
 module.exports = {
     saveDB,
     readDB
-
 }
